@@ -2,7 +2,7 @@
 
 A minimalist, high-performance virtual whiteboard for creating beautiful, hand-drawn style diagrams and sketches.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/KpateL78/whiteboard_generated-app)
 
 ## Key Features
 
@@ -83,7 +83,7 @@ This project is optimized for deployment on the Cloudflare network.
 
 You can deploy this application to your own Cloudflare account with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/KpateL78/whiteboard_generated-app)
 
 ### Manual Deployment via Wrangler
 
